@@ -25,4 +25,4 @@ This project provides a comprehensive evaluation of container security, focusing
 - **Evaluate Container-Specific OS Security**: Understand the security implications of container-specific operating systems and their limitations.
 - **Apply NIST Guidelines**: Use NIST’s Application Container Security Guide to categorize and evaluate container security threats.
 - **Enhance Security Awareness**: Develop a deeper understanding of the trade-offs between container performance and security, and how to balance them effectively.
-- 
+  
